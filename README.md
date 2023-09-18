@@ -223,16 +223,12 @@ https://poised-mandible-7e9.notion.site/API-c18d4ad6b4204fcd8da9383e62becde4
 
 ### 1. 클라이언트
 
-1. 원격 저장소 복제
 
-   ```bash
-   $ git clone https://lab.ssafy.com/s09-webmobile2-sub2/S09P12A410.git
-   ```
 
 2. 프로젝트로 이동
 
    ```bash
-   $ cd ~/S09P12A410/unibirth-fe
+   $ cd ~/unibirth-fe
    ```
 
 3. 필요한 모듈 설치
@@ -255,16 +251,11 @@ https://poised-mandible-7e9.notion.site/API-c18d4ad6b4204fcd8da9383e62becde4
 
 ### 2. 서버
 
-1. 원격 저장소 복제
-
-   ```bash
-   $ git clone https://lab.ssafy.com/s09-webmobile2-sub2/S09P12A410.git
-   ```
 
 2. main 폴더로 이동
 
    ```bash
-   $ cd S09P12A410/unibirth-BE/src/main
+   $ cd unibirth-BE/src/main
    ```
 
 3. resources 폴더 생성 및 이동
@@ -341,7 +332,7 @@ https://poised-mandible-7e9.notion.site/API-c18d4ad6b4204fcd8da9383e62becde4
 5. 프로젝트 폴더로 이동
 
    ```bash
-   $ cd ~/S09P12A410/unibirth-BE/
+   $ cd ~/unibirth-BE/
    ```
 
 6. 프로젝트 build
